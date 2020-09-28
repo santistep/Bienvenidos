@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bienvenidos</string>
+    <string name="android_marciano">androidMarciano</string>
+    <string name= "boton">Entrar</string>
+</resources>
